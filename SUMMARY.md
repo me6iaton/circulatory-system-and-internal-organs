@@ -3,5 +3,5 @@
 * [Introduction](README.md)
 * [Кровеносная система — рабочие образы](circulatory-system.md)
 * [Почки](pochki.md)
-* Селезенка
+* [Селезенка](selezenka.md)
 

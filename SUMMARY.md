@@ -1,8 +1,6 @@
-# Summary
+# Содержание
 
-* [Introduction](README.md)
-* [Кровеносная система — рабочие образы](circulatory-system.md)
+* [Кровеносная система](circulatory-system.md)
 * [Почки](pochki.md)
 * [Селезенка](selezenka.md)
 * [ЖКТ](zhkt.md)
-

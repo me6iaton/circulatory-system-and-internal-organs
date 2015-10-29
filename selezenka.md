@@ -56,3 +56,9 @@
 вращении.
 
 ![](images/MedRF_27573.jpg)
+
+![](images/portalnaya-gipertenziya.jpg)
+
+![](images/sj-01-128.jpg)
+
+![](images/spleen_1.jpg)

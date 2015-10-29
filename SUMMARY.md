@@ -4,5 +4,5 @@
 * [Кровеносная система — рабочие образы](circulatory-system.md)
 * [Почки](pochki.md)
 * [Селезенка](selezenka.md)
-* ЖКТ
+* [ЖКТ](zhkt.md)
 
